@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Mis je iemand --> bel hem
 Wil je afspreken --> nodig iemand uit
