@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 1. Loop 25% sneller
 Gooi je schouders naar achteren, til je hoofd op, ga iets sneller vooruit en voel het zelfvertrouwen groeien.
