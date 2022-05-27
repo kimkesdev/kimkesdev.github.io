@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 1. Neem de beginnersmentaliteit aan.
 2. Focus op de inspanning; niet de uitkomst.
