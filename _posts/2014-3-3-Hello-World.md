@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: 14 manieren om jezelf te kalmeren als het leven moeilijk wordt
 published: true
 ---
-
-## 14 manieren om jezelf te kalmeren als het leven moeilijk wordt
 
 1. Wandel
 Wandelen helpt je hoofd leeg te maken. Het biedt je een ander perspectief.
