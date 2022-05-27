@@ -1,8 +1,6 @@
 ---
-published: true
+published: false
 ---
-# 20 manieren om het giftige ego te doden dat je leven zal ruïneren
-
 1. Neem de beginnersmentaliteit aan.
 2. Focus op de inspanning; niet de uitkomst.
 3. Kies doel boven passie.
