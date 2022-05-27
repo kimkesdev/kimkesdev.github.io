@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # 20 manieren om het giftige ego te doden dat je leven zal ruïneren
 
