@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: kimkesdev
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/60405135?s=400&u=158ddd40bac23fce0b185596fec176eddf9fed14&v=4
 
 #
 # Flags below are optional
